@@ -1,0 +1,29 @@
+{
+  "name": "hapiclone",
+  "version": "0.0.1",
+  "description": "哈皮工具：文件拷贝",
+  "bin": {
+    "hapi": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EchoHub/hapiclone.git"
+  },
+  "keywords": [
+    "file",
+    "dir",
+    "copy"
+  ],
+  "author": "EchoHub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EchoHub/hapiclone/issues"
+  },
+  "homepage": "https://github.com/EchoHub/hapiclone#readme",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "commander": "^2.20.0",
+    "log4js": "^4.3.1",
+    "mkdirp": "^0.5.1"
+  }
+}
