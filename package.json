@@ -1,9 +1,9 @@
 {
   "name": "hapiclone",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "哈皮工具：文件拷贝",
   "bin": {
-    "hapi": "./bin/index.js"
+    "hapiclone": "./bin/index.js"
   },
   "repository": {
     "type": "git",
