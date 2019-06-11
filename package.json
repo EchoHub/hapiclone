@@ -1,6 +1,6 @@
 {
   "name": "hapiclone",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "哈皮工具：文件拷贝",
   "bin": {
     "hapi": "./bin/index.js"
